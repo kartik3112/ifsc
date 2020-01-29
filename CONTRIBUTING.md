@@ -22,6 +22,7 @@ file, here are a few guidelines:
 8. Also ensure that the 4 character code is committed to `Bank.php`
 9. No period after `Co-operative`
 10. Grameen is spelled three ways: Grameen/Gramin/Grameena. Check the RBI List for the corresponding bank [here](https://m.rbi.org.in/scripts/Bs_viewcontent.aspx?Id=3657).
+11. `Sahakari`, not `sahkari`.
 
 ## Code Guidelines
 
